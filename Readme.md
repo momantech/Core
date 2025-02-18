@@ -8,7 +8,7 @@
 
 Chain Core Developer Edition can be run locally on Mac, Windows, or Linux to create a new blockchain network, connect to an existing blockchain network, or connect to the public Chain testnet, operated by Chain, Microsoft, and Cornell University’s IC3.
 
-For more information about how to use Chain Core Developer Edition, see the docs: https://Chain.org/docs
+For more information about how to use Chain Core Developer Edition, see the docs: https://docs.chain.com
 
 ## Download
 
